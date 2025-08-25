@@ -1,4 +1,4 @@
-i did this #Hey_I'm_FATIMA_EZZAHRA_ELBOUAZIZI (THEY CALL ME FZ) <3 <br/><br/>
+ #Hey_I'm_FATIMA_EZZAHRA_ELBOUAZIZI (THEY CALL ME FZ) <3 <br/><br/>
 💻 Engineering Student in Computer Science (Génie Informatique) | Passionate about building scalable systems and solving real-world problems with clean, efficient code <br/>
 🚀 Currently working on projects involving:<br/>
  
@@ -18,4 +18,4 @@ i did this #Hey_I'm_FATIMA_EZZAHRA_ELBOUAZIZI (THEY CALL ME FZ) <3 <br/><br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 📩 Let’s connect:
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fvtimvezzahrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-ezzahra-el-bouaziz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimaezzahraelbouazizi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fvtimvezzahrv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-ezzahra-el-bouazizi-21aa64281)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimaezzahraelbouazizi@gmail.com)
