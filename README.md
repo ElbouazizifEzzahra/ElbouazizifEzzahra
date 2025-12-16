@@ -1,6 +1,6 @@
- #Hey_I'm_FATIMA_EZZAHRA_ELBOUAZIZI (THEY CALL ME FZ) <3 <br/><br/>
+ #Hey_I'm_FATIMA_EZZAHRA_ELBOUAZIZI (THEY CALL ME FZ)  <br/><br/>
 💻 Engineering Student in Computer Science (Génie Informatique) | Passionate about building scalable systems and solving real-world problems with clean, efficient code <br/>
-🚀 Currently working on projects involving:<br/>
+ Currently working on projects involving:<br/>
  
 
 # 💻 Tech Stack:
